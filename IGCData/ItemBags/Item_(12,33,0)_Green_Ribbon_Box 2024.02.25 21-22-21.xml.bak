@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Item_Blue_Ribbon_Box" ItemRate="7000" SetItemRate="0" MoneyDrop="90000" BagUseRate="10000" BagUseEffect="0" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" />
+	<AddCoin Enable="0" CoinType="0" CoinValue="0" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropAllow Wizard="1" DW="1" Knight="1" DK="1" FairyElf="1" ELF="1" MagicGladiator="1" MG="1" DarkLord="1" DL="1" Summoner="1" SU="1" RageFighter="1" RF="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+		<Drop Rate="7000" Count="1">
+			<!--Bronze Pants-->
+			<Item Cat="9" Index="0" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Pants-->
+			<Item Cat="9" Index="1" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Pad Pants-->
+			<Item Cat="9" Index="2" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Legendary Pants-->
+			<Item Cat="9" Index="3" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bone Pants-->
+			<Item Cat="9" Index="4" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Leather Pants-->
+			<Item Cat="9" Index="5" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Scale Pants-->
+			<Item Cat="9" Index="6" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sphinx Pants-->
+			<Item Cat="9" Index="7" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Brass Pants-->
+			<Item Cat="9" Index="8" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Plate Pants-->
+			<Item Cat="9" Index="9" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Vine Pants-->
+			<Item Cat="9" Index="10" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Silk Pants-->
+			<Item Cat="9" Index="11" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Wind Pants-->
+			<Item Cat="9" Index="12" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Spirit Pants-->
+			<Item Cat="9" Index="13" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Guardian Pants-->
+			<Item Cat="9" Index="14" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Crow Pants-->
+			<Item Cat="9" Index="15" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Black Dragon Pants-->
+			<Item Cat="9" Index="16" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Phoenix Pants-->
+			<Item Cat="9" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Grand Soul Pants-->
+			<Item Cat="9" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Holy Spirit Pants-->
+			<Item Cat="9" Index="19" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Thunder Hawk Pants-->
+			<Item Cat="9" Index="20" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Light Plate Pants-->
+			<Item Cat="9" Index="25" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Adamantine Pants-->
+			<Item Cat="9" Index="26" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Steel Pants-->
+			<Item Cat="9" Index="27" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Ashcrow Pants-->
+			<Item Cat="9" Index="34" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Eclipse Pants-->
+			<Item Cat="9" Index="35" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Iris Pants-->
+			<Item Cat="9" Index="36" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Valiant Pants-->
+			<Item Cat="9" Index="37" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Glorious Pants-->
+			<Item Cat="9" Index="38" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Violent Wind Pants-->
+			<Item Cat="9" Index="39" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Wing Pants-->
+			<Item Cat="9" Index="40" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Ancient Pants-->
+			<Item Cat="9" Index="41" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bronze Boots-->
+			<Item Cat="11" Index="0" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Boots-->
+			<Item Cat="11" Index="1" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Pad Boots-->
+			<Item Cat="11" Index="2" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Legendary Boots-->
+			<Item Cat="11" Index="3" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bone Boots-->
+			<Item Cat="11" Index="4" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Leather Boots-->
+			<Item Cat="11" Index="5" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Scale Boots-->
+			<Item Cat="11" Index="6" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sphinx Boots-->
+			<Item Cat="11" Index="7" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Brass Boots-->
+			<Item Cat="11" Index="8" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Plate Boots-->
+			<Item Cat="11" Index="9" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Vine Boots-->
+			<Item Cat="11" Index="10" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Silk Boots-->
+			<Item Cat="11" Index="11" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Wind Boots-->
+			<Item Cat="11" Index="12" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Spirit Boots-->
+			<Item Cat="11" Index="13" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Guardian Boots-->
+			<Item Cat="11" Index="14" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Crow Boots-->
+			<Item Cat="11" Index="15" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Black Dragon Boots-->
+			<Item Cat="11" Index="16" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Phoenix Boots-->
+			<Item Cat="11" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Grand Soul Boots-->
+			<Item Cat="11" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Holy Spirit Boots-->
+			<Item Cat="11" Index="19" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Thunder Hawk Boots-->
+			<Item Cat="11" Index="20" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Light Plate Boots-->
+			<Item Cat="11" Index="25" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Adamantine Boots-->
+			<Item Cat="11" Index="26" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Steel Boots-->
+			<Item Cat="11" Index="27" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Ashcrow Boots-->
+			<Item Cat="11" Index="34" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Eclipse Boots-->
+			<Item Cat="11" Index="35" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Iris Boots-->
+			<Item Cat="11" Index="36" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Valiant Boots-->
+			<Item Cat="11" Index="37" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Glorious Boots-->
+			<Item Cat="11" Index="38" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Violent Wind Boots-->
+			<Item Cat="11" Index="39" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Wing Boots-->
+			<Item Cat="11" Index="40" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Ancient Boots-->
+			<Item Cat="11" Index="41" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+	</DropAllow>
+</ItemBag>

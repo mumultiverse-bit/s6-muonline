@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<DropManager DropUseRate="400000">
+	<!--** All Monsters **-->
+	<Monster Index="-1" MonsterMinLevel="-1" MonsterMaxLevel="-1" MapNumber="10" ItemRate="1" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="0" PlayerMaxLevel="MAX">
+		<!--Loch's Feather-->
+		<Item Cat="13" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Durability="-1" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+	<!--** All Monsters **-->
+	<Monster Index="-1" MonsterMinLevel="-1" MonsterMaxLevel="-1" MapNumber="-1" ItemRate="3" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="0" PlayerMaxLevel="MAX">
+		<!--Jewel of Bless-->
+		<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Durability="1" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+		<!--Jewel of Soul-->
+		<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Durability="1" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+		<!--Jewel of Chaos-->
+		<Item Cat="12" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Durability="1" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+		<!--** All Monsters **-->
+	<Monster Index="-1" MonsterMinLevel="76" MonsterMaxLevel="199" MapNumber="-1" ItemRate="2" ItemCount="1" CoinReward="0" CoinType="0" CoinValue="0" PlayerMinLevel="0" PlayerMaxLevel="MAX">
+		<!--Jewel of Life-->
+		<Item Cat="14" Index="16" ItemMinLevel="0" ItemMaxLevel="0" Durability="1" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" DropRate="1" />
+	</Monster>
+</DropManager>

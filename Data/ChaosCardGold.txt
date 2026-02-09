@@ -1,0 +1,43 @@
+//############################################################
+//# -- INTERNATIONAL GAMING CENTER NETWORK
+//# -- www.igcn.mu
+// (C) IGC-Network (R)
+//# ---------------------------------------------------------
+//# -- File is a part of IGCN Group MuOnline Server files.
+//############################################################
+
+0
+//	Type	DropProb	SkillProb	LuckPorb	OptProb	ExcProb
+	3	1000000	1000000	400000	0	1000000
+end
+
+1
+//	Type	Value
+	0	0	// +0 Opt
+	1	0	// +4 Opt
+	2	0	// +8 Opt
+	3	0	// +12 Opt
+	4	0	// +16 Opt
+	5	0	// +20 Opt
+	6	0	// +24 Opt
+	7	0	// +28 Opt
+end
+
+2
+//	Type	Value
+	0	166000	// 1st Opt
+	1	166000	// 2nd Opt
+	2	166000	// 3rd Opt
+	3	166000	// 4th Opt
+	4	166000	// 5th Opt
+	5	166000	// 6th Opt
+end
+
+3
+//	Index	Item	MinLvl	MaxLvl	Skill	Luck	Opt	ExcOpt	Name
+	3	11	0	0	1	1	0	1	// Brova
+	4	24	0	0	1	1	0	1	// Aileen Bow
+	5	33	0	0	1	1	0	1	// Chrome Staff
+	5	34	0	0	1	1	0	1	// Raven Stick
+	2	18	0	0	1	1	0	1	// Striker Scepter
+end

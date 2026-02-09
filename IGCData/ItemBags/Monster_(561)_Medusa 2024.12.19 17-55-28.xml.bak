@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Monster_Medusa" ItemRate="100000" SetItemRate="0" MoneyDrop="100000" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" />
+	<AddCoin Enable="1" CoinType="2" CoinValue="200" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropAllow Wizard="1" DW="1" Knight="1" DK="1" FairyElf="1" ELF="1" MagicGladiator="1" MG="1" DarkLord="1" DL="1" Summoner="1" SU="1" RageFighter="1" RF="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+		<Drop Rate="3000" Count="1">
+			<!--Bone Blade-->
+			<Item Cat="0" Index="22" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Explosion Blade-->
+			<Item Cat="0" Index="23" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sylph Wind Bow-->
+			<Item Cat="4" Index="21" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Phoenix Soul Star-->
+			<Item Cat="0" Index="35" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Soleil Scepter-->
+			<Item Cat="2" Index="14" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Blitz Stick-->
+			<Item Cat="5" Index="19" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Grand Viper Staff-->
+			<Item Cat="5" Index="12" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+		<Drop Rate="7000" Count="3">
+			<!--Sword of Destruction-->
+			<Item Cat="0" Index="16" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Breaker-->
+			<Item Cat="0" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Thunder Blade-->
+			<Item Cat="0" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Knight Blade-->
+			<Item Cat="0" Index="20" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Reign Blade-->
+			<Item Cat="0" Index="21" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Daybreak-->
+			<Item Cat="0" Index="24" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sword Dancer-->
+			<Item Cat="0" Index="25" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Rune Blade-->
+			<Item Cat="0" Index="31" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sacred Glove-->
+			<Item Cat="0" Index="32" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Holy Storm Claws-->
+			<Item Cat="0" Index="33" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Piercing Blade Glove-->
+			<Item Cat="0" Index="34" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Great Lord Scepter-->
+			<Item Cat="2" Index="12" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Spear-->
+			<Item Cat="3" Index="10" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Celestial Bow-->
+			<Item Cat="4" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Great Reign Crossbow-->
+			<Item Cat="4" Index="19" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Arrow Viper Bow-->
+			<Item Cat="4" Index="20" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Albatross Bow-->
+			<Item Cat="4" Index="22" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Staff of Destruction-->
+			<Item Cat="5" Index="8" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Soul Staff-->
+			<Item Cat="5" Index="9" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Staff of Kundun-->
+			<Item Cat="5" Index="11" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Platina Staff-->
+			<Item Cat="5" Index="13" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Demonic Stick-->
+			<Item Cat="5" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Wing Stick-->
+			<Item Cat="5" Index="16" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Book of Lagle-->
+			<Item Cat="5" Index="23" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Book of Neil-->
+			<Item Cat="5" Index="22" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Legendary Shield-->
+			<Item Cat="6" Index="14" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Grand Soul Shield-->
+			<Item Cat="6" Index="15" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Phoenix Helm-->
+			<Item Cat="7" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Grand Soul Helm-->
+			<Item Cat="7" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Great Dragon Helm-->
+			<Item Cat="7" Index="21" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Soul Helm-->
+			<Item Cat="7" Index="22" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Spirit Helm-->
+			<Item Cat="7" Index="24" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Adamantine Mask-->
+			<Item Cat="7" Index="26" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Master Mask-->
+			<Item Cat="7" Index="28" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Wing Helm-->
+			<Item Cat="7" Index="40" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Demonic Helm-->
+			<Item Cat="7" Index="42" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Jahad Helm-->
+			<Item Cat="7" Index="72" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Piercing Groove Helm-->
+			<Item Cat="7" Index="61" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Phoenix Armor-->
+			<Item Cat="8" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Grand Soul Armor-->
+			<Item Cat="8" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Great Dragon Armor-->
+			<Item Cat="8" Index="21" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Soul Armor-->
+			<Item Cat="8" Index="22" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Spirit Armor-->
+			<Item Cat="8" Index="24" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Phoenix Pants-->
+			<Item Cat="9" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Phoenix Gloves-->
+			<Item Cat="10" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Phoenix Boots-->
+			<Item Cat="11" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Spirit Pants-->
+			<Item Cat="9" Index="24" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Spirit Gloves-->
+			<Item Cat="10" Index="24" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Spirit Boots-->
+			<Item Cat="11" Index="24" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Soul Pants-->
+			<Item Cat="9" Index="22" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Soul Gloves-->
+			<Item Cat="10" Index="22" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Soul Boots-->
+			<Item Cat="11" Index="22" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Great Dragon Pants-->
+			<Item Cat="9" Index="21" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Great Dragon Gloves-->
+			<Item Cat="10" Index="21" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Great Dragon Boots-->
+			<Item Cat="11" Index="21" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Grand Soul Pants-->
+			<Item Cat="9" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Grand Soul Gloves-->
+			<Item Cat="10" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Grand Soul Boots-->
+			<Item Cat="11" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Piercing Groove Armor-->
+			<Item Cat="8" Index="61" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Piercing Groove Pants-->
+			<Item Cat="9" Index="61" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Jahad Armor-->
+			<Item Cat="8" Index="72" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Jahad Pants-->
+			<Item Cat="9" Index="72" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bronze Boots-->
+			<Item Cat="11" Index="0" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Piercing Groove Boots-->
+			<Item Cat="11" Index="61" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Demonic Armor-->
+			<Item Cat="8" Index="42" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Demonic Pants-->
+			<Item Cat="9" Index="42" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Demonic Gloves-->
+			<Item Cat="10" Index="42" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Demonic Boots-->
+			<Item Cat="11" Index="42" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Wing Armor-->
+			<Item Cat="8" Index="40" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Wing Pants-->
+			<Item Cat="9" Index="40" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Wing Gloves-->
+			<Item Cat="10" Index="40" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Wing Boots-->
+			<Item Cat="11" Index="40" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Master Armor-->
+			<Item Cat="8" Index="28" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Master Pants-->
+			<Item Cat="9" Index="28" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Master Gloves-->
+			<Item Cat="10" Index="28" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Master Boots-->
+			<Item Cat="11" Index="28" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Adamantine Armor-->
+			<Item Cat="8" Index="26" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Adamantine Pants-->
+			<Item Cat="9" Index="26" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Adamantine Gloves-->
+			<Item Cat="10" Index="26" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Adamantine Boots-->
+			<Item Cat="11" Index="26" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Holy Spirit Helm-->
+			<Item Cat="7" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Holy Spirit Armor-->
+			<Item Cat="8" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Holy Spirit Pants-->
+			<Item Cat="9" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Holy Spirit Gloves-->
+			<Item Cat="10" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Holy Spirit Boots-->
+			<Item Cat="11" Index="19" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+	</DropAllow>
+</ItemBag>

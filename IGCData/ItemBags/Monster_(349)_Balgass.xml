@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Monster_Balgass" ItemRate="100000" SetItemRate="0" MoneyDrop="1000000" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" />
+	<AddCoin Enable="1" CoinType="2" CoinValue="100" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropAllow Wizard="1" DW="1" Knight="1" DK="1" FairyElf="1" ELF="1" MagicGladiator="1" MG="1" DarkLord="1" DL="1" Summoner="1" SU="1" RageFighter="1" RF="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+		<Drop Rate="1000" Count="1">
+			<!--Talisman of Luck-->
+			<Item Cat="14" Index="53" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Talisman of Chaos Assembly-->
+			<Item Cat="14" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+		<Drop Rate="3000" Count="1">
+			<!--1st Lucky Armor Ticket-->
+			<Item Cat="13" Index="135" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--1st Lucky Pants Ticket-->
+			<Item Cat="13" Index="136" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--1st Lucky Helm Ticket-->
+			<Item Cat="13" Index="137" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--1st Lucky Gloves Ticket-->
+			<Item Cat="13" Index="138" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--1st Lucky Boots Ticket-->
+			<Item Cat="13" Index="139" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+		<Drop Rate="3000" Count="1">
+			<!--Phoenix Soul Armor-->
+			<Item Cat="8" Index="73" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Knight Armor-->
+			<Item Cat="8" Index="29" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sylphid Ray Armor-->
+			<Item Cat="8" Index="31" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Blitz Armor-->
+			<Item Cat="8" Index="43" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sunlight Armor-->
+			<Item Cat="8" Index="33" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Venom Mist Armor-->
+			<Item Cat="8" Index="30" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Volcano Armor-->
+			<Item Cat="8" Index="32" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+		<Drop Rate="3000" Count="1">
+			<!--Arrow Viper Bow-->
+			<Item Cat="4" Index="20" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Staff of Kundun-->
+			<Item Cat="5" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Knight Blade-->
+			<Item Cat="0" Index="20" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Great Lord Scepter-->
+			<Item Cat="2" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Demonic Stick-->
+			<Item Cat="5" Index="18" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Piercing Blade Glove-->
+			<Item Cat="0" Index="34" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Reign Blade-->
+			<Item Cat="0" Index="21" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+	</DropAllow>
+</ItemBag>

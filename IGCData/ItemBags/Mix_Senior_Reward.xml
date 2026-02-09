@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Mix_Senior_Reward" ItemRate="10000" SetItemRate="0" MoneyDrop="0" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" />
+	<AddCoin Enable="0" CoinType="0" CoinValue="0" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropAllow Wizard="1" DW="1" Knight="1" DK="1" FairyElf="1" ELF="1" MagicGladiator="1" MG="1" DarkLord="1" DL="1" Summoner="1" SU="1" RageFighter="1" RF="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+		<Drop Rate="5000" Count="1">
+			<!--Knight Blade-->
+			<Item Cat="0" Index="20" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Reign Blade-->
+			<Item Cat="0" Index="21" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sword Dancer-->
+			<Item Cat="0" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Daybreak-->
+			<Item Cat="0" Index="24" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Albatross Bow-->
+			<Item Cat="4" Index="22" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Staff of Kundun-->
+			<Item Cat="5" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Arrow Viper Bow-->
+			<Item Cat="4" Index="20" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="-3;3" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+		<Drop Rate="5000" Count="2">
+			<!--Broken Horn-->
+			<Item Cat="13" Index="36" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Talisman of Chaos Assembly-->
+			<Item Cat="14" Index="96" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Talisman of Luck-->
+			<Item Cat="14" Index="53" ItemMinLevel="0" ItemMaxLevel="0" Durability="5" Skill="1" Luck="1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+	</DropAllow>
+</ItemBag>

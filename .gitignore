@@ -1,0 +1,17 @@
+# Ignore everything in the repository root
+/*
+
+# Keep .gitignore itself and .gitattributes if present
+!/.gitignore
+!/.gitattributes
+
+# Allow the Data and IGCData directories and their contents
+!Data/
+!Data/**
+!IGCData/
+!IGCData/**
+
+# Common local ignores (optional)
+.DS_Store
+Thumbs.db
+*.log

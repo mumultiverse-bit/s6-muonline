@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Monster_Mayas_Left_Hand" ItemRate="100000" SetItemRate="0" MoneyDrop="100000" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" />
+	<AddCoin Enable="1" CoinType="2" CoinValue="50" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropAllow Wizard="1" DW="1" Knight="1" DK="1" FairyElf="1" ELF="1" MagicGladiator="1" MG="1" DarkLord="1" DL="1" Summoner="1" SU="1" RageFighter="1" RF="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+		<Drop Rate="10000" Count="2">
+			<!--Dragon Knight Helm-->
+			<Item Cat="7" Index="29" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Venom Mist Helm-->
+			<Item Cat="7" Index="30" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sylphid Ray Helm-->
+			<Item Cat="7" Index="31" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sunlight Mask-->
+			<Item Cat="7" Index="33" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Knight Gloves-->
+			<Item Cat="10" Index="29" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Venom Mist Gloves-->
+			<Item Cat="10" Index="30" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sylphid Ray Gloves-->
+			<Item Cat="10" Index="31" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Volcano Gloves-->
+			<Item Cat="10" Index="32" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sunlight Gloves-->
+			<Item Cat="10" Index="33" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Knight Boots-->
+			<Item Cat="11" Index="29" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Venom Mist Boots-->
+			<Item Cat="11" Index="30" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sylphid Ray Boots-->
+			<Item Cat="11" Index="31" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Volcano Boots-->
+			<Item Cat="11" Index="32" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sunlight Boots-->
+			<Item Cat="11" Index="33" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+	</DropAllow>
+</ItemBag>

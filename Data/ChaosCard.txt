@@ -1,0 +1,89 @@
+//############################################################
+//# -- INTERNATIONAL GAMING CENTER NETWORK
+//# -- www.igcn.mu
+// (C) IGC-Network (R)
+//# ---------------------------------------------------------
+//# -- File is a part of IGCN Group MuOnline Server files.
+//############################################################
+
+0
+//	Type	DropProb	SkillProb	LuckPorb	OptProb	ExcProb
+	9	100000	1000000	500000	0	1000000
+	10	100000	1000000	0	0	0
+	11	50000	1000000	500000	0	0
+	13	350000	0	0	0	0
+	14	350000	0	800000	0	0
+	15	50000	0	0	0	0
+end
+
+1
+//	Type	Value
+	0	300000	// +0 Opt
+	1	400000	// +4 Opt
+	2	100000	// +8 Opt
+	3	50000	// +12 Opt
+	4	50000	// +16 Opt
+	5	0	// +20 Opt
+	6	0	// +24 Opt
+	7	0	// +28 Opt
+end
+
+2
+//	Type	Value
+	0	166600	// 1st Opt
+	1	166600	// 2nd Opt
+	2	166600	// 3rd Opt
+	3	166600	// 4th Opt
+	4	166600	// 5th Opt
+	5	166600	// 6th Opt
+end
+
+9
+//	Index	Item	MinLvl	MaxLvl	Skill	Luck	Opt	ExcOpt	Name
+	0	19	0	0	1	1	1	1	// Divine Sword of Archangel
+	5	10	0	0	1	1	1	1	// Divine Staff of Archangel
+	5	36	0	0	1	1	1	1	// Divine Stick of the Archangel
+	4	18	0	0	1	1	1	1	// Divine Crossbow of Archangel
+end
+
+10
+//	Index	Item	MinLvl	MaxLvl	Skill	Luck	Opt	ExcOpt	Name
+	13	36	0	0	1	1	1	1	// Broken Horn
+	13	37	0	0	1	1	1	1	// Horn of Fenrir
+end
+
+11
+//	Index	Item	MinLvl	MaxLvl	Skill	Luck	Opt	ExcOpt	Name
+	0	22	0	0	1	1	1	1	// Bone Blade
+	0	23	0	0	1	1	1	1	// Explosion Blade
+	4	21	0	0	1	1	1	1	// Sylph Wind Bow
+	0	35	0	0	1	1	1	1	// Phoenix Soul Star
+	2	14	0	0	1	1	1	1	// Soleil Scepter
+	5	19	0	0	1	1	1	1	// Storm Blitz Stick
+end
+
+13
+//	Index	Item	MinLvl	MaxLvl	Skill	Luck	Opt	ExcOpt	Name
+	12	137	2	2	1	1	1	1	// Kris
+	12	30	2	2	1	1	1	1	// Kris
+	12	31	2	2	1	1	1	1	// Kris
+	12	136	2	2	1	1	1	1	// Kris
+	12	137	2	2	1	1	1	1	// Kris
+	12	141	2	2	1	1	1	1	// Kris
+end
+
+14
+//	Index	Item	MinLvl	MaxLvl	Skill	Luck	Opt	ExcOpt	Name
+	8	29	0	0	1	1	1	1	// Dragon Knight Armor
+	8	33	0	0	1	1	1	1	// Sunlight Armor
+	8	32	0	0	1	1	1	1	// Volcano Armor
+	8	31	0	0	1	1	1	1	// Sylphid Ray Armor
+	8	73	0	0	1	1	1	1	// Phoenix Soul Armor
+	8	43	0	0	1	1	1	1	// Storm Blitz Armor
+end
+
+15
+//	Index	Item	MinLvl	MaxLvl	Skill	Luck	Opt	ExcOpt	Name
+	13	53	0	0	1	1	1	1	// Condor Feather
+	13	52	0	0	1	1	1	1	// Condor Flame
+end

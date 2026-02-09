@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010-2016 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+//
+// ### BonusEvent ###
+//	Enable: Activates or deactivates event, 0/10
+//	DisplayNotice: Displays notice about the event start (English.ini ~> 1039)
+//
+// ### BonusEvent::Event ###
+//	StartHour: Start hour of the event, 0-23
+//	EndHour: End hour of the event, 0-23
+//	ExpMultiplier: Regular experience multiplier
+//	MasterExpMultiplier: Master experience multiplier
+//	ItemDropBonus: Bonus of item drop rate added to server base value of item drop on server
+//	ExcDropBonus: Bonus of exc item drop rate added to server base value of exc drop on server
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+
+<BonusEvent Enable="0" DisplayNotice="1">
+	<Event StartHour="18" EndHour="21" ExpMultiplier="1.5" MasterExpMultiplier="1.5" ItemDropBonus="10" ExcDropBonus="2" />
+	
+</BonusEvent>

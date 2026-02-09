@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+<CashItemPackage>
+	<Package GUID="0" ID="21" ItemSequence="0" UniqueID1="51" UniqueID2="81" Description="Master Seal of Wealth" />
+	<Package GUID="1" ID="21" ItemSequence="1" UniqueID1="38" UniqueID2="63" Description="Seal of Healing" />
+	<Package GUID="2" ID="21" ItemSequence="2" UniqueID1="57" UniqueID2="94" Description="Panda Ring" />
+	<Package GUID="3" ID="21" ItemSequence="3" UniqueID1="60" UniqueID2="100" Description="Pet Panda" />
+</CashItemPackage>

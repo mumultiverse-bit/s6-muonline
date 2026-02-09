@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) 2010-2016 IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// ### SocketRateSettings::Socket ### - one hand weapons only
+//	CatID: ID of category from ItemList.xml
+//	Count1: Success rate for 1 slot, n/10000, can be 0
+//	Count2: Success rate for 2 slots, n/10000, can be 0
+//	Count3: Success rate for 3 slots, n/10000, can be 0
+//	Count4: Success rate for 4 slots, n/10000, can be 0
+//	Count5: Success rate for 5 slots, n/10000, can be 0
+//
+// ### SocketRateSettings::TwoHandWeapons ### - two hands weapons only
+//	Count1: Success rate for 1 slot, n/10000, can be 0
+//	Count2: Success rate for 2 slots, n/10000, can be 0
+//	Count3: Success rate for 3 slots, n/10000, can be 0
+//	Count4: Success rate for 4 slots, n/10000, can be 0
+//	Count5: Success rate for 5 slots, n/10000, can be 0
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+-->
+
+<SocketRateSettings>
+	<Socket CatID="0" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Swords -->
+	<Socket CatID="1" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Axes -->
+	<Socket CatID="2" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Maces -->
+	<Socket CatID="3" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Spears -->
+	<Socket CatID="4" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Bows & Cross Bows -->
+	<Socket CatID="5" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Staffs -->
+	<Socket CatID="6" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Shield -->
+	<Socket CatID="7" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Helmets -->
+	<Socket CatID="8" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Armors -->
+	<Socket CatID="9" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Pants -->
+	<Socket CatID="10" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Gloves -->
+	<Socket CatID="11" Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" /> <!-- Boots -->
+	
+	<TwoHandWeapons Count1="7800" Count2="2000" Count3="200" Count4="0" Count5="0" />
+</SocketRateSettings>

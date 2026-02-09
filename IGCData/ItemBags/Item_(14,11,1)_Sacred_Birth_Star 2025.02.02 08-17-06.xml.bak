@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Item_Sacred_Birth_Star" ItemRate="10000" SetItemRate="0" MoneyDrop="1" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" />
+	<AddCoin Enable="0" CoinType="0" CoinValue="0" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropAllow Wizard="1" DW="1" Knight="1" DK="1" FairyElf="1" ELF="1" MagicGladiator="1" MG="1" DarkLord="1" DL="1" Summoner="1" SU="1" RageFighter="1" RF="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+		<Drop Rate="10000" Count="1">
+			<!--Bronze Helm-->
+			<Item Cat="7" Index="0" ItemMinLevel="0" ItemMaxLevel="9" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bronze Helm-->
+			<Item Cat="7" Index="0" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Helm-->
+			<Item Cat="7" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Pad Helm-->
+			<Item Cat="7" Index="2" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Legendary Helm-->
+			<Item Cat="7" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bone Helm-->
+			<Item Cat="7" Index="4" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Leather Helm-->
+			<Item Cat="7" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Scale Helm-->
+			<Item Cat="7" Index="6" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sphinx Mask-->
+			<Item Cat="7" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Brass Helm-->
+			<Item Cat="7" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Plate Helm-->
+			<Item Cat="7" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Vine Helm-->
+			<Item Cat="7" Index="10" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Silk Helm-->
+			<Item Cat="7" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Wind Helm-->
+			<Item Cat="7" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Spirit Helm-->
+			<Item Cat="7" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Guardian Helm-->
+			<Item Cat="7" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Light Plate Mask-->
+			<Item Cat="7" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bronze Armor-->
+			<Item Cat="8" Index="0" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Armor-->
+			<Item Cat="8" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Pad Armor-->
+			<Item Cat="8" Index="2" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Legendary Armor-->
+			<Item Cat="8" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bone Armor-->
+			<Item Cat="8" Index="4" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Leather Armor-->
+			<Item Cat="8" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Scale Armor-->
+			<Item Cat="8" Index="6" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sphinx Armor-->
+			<Item Cat="8" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Brass Armor-->
+			<Item Cat="8" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Plate Armor-->
+			<Item Cat="8" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Vine Armor-->
+			<Item Cat="8" Index="10" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Silk Armor-->
+			<Item Cat="8" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Wind Armor-->
+			<Item Cat="8" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Spirit Armor-->
+			<Item Cat="8" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Guardian Armor-->
+			<Item Cat="8" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Crow Armor-->
+			<Item Cat="8" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Light Plate Armor-->
+			<Item Cat="8" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bronze Pants-->
+			<Item Cat="9" Index="0" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Pants-->
+			<Item Cat="9" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Pad Pants-->
+			<Item Cat="9" Index="2" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Legendary Pants-->
+			<Item Cat="9" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Leather Pants-->
+			<Item Cat="9" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Scale Pants-->
+			<Item Cat="9" Index="6" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sphinx Pants-->
+			<Item Cat="9" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Brass Pants-->
+			<Item Cat="9" Index="8" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Plate Pants-->
+			<Item Cat="9" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Vine Pants-->
+			<Item Cat="9" Index="10" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Silk Pants-->
+			<Item Cat="9" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Wind Pants-->
+			<Item Cat="9" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Spirit Pants-->
+			<Item Cat="9" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Guardian Pants-->
+			<Item Cat="9" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Crow Pants-->
+			<Item Cat="9" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Light Plate Pants-->
+			<Item Cat="9" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bronze Gloves-->
+			<Item Cat="10" Index="0" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Gloves-->
+			<Item Cat="10" Index="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Pad Gloves-->
+			<Item Cat="10" Index="2" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Legendary Gloves-->
+			<Item Cat="10" Index="3" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Bone Gloves-->
+			<Item Cat="10" Index="4" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Leather Gloves-->
+			<Item Cat="10" Index="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Scale Gloves-->
+			<Item Cat="10" Index="6" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sphinx Gloves-->
+			<Item Cat="10" Index="7" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Plate Gloves-->
+			<Item Cat="10" Index="9" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Vine Gloves-->
+			<Item Cat="10" Index="10" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Silk Gloves-->
+			<Item Cat="10" Index="11" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Wind Gloves-->
+			<Item Cat="10" Index="12" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Spirit Gloves-->
+			<Item Cat="10" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Guardian Gloves-->
+			<Item Cat="10" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Storm Crow Gloves-->
+			<Item Cat="10" Index="15" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Light Plate Gloves-->
+			<Item Cat="10" Index="25" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+	</DropAllow>
+</ItemBag>

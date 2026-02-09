@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Monster_Mayas_Left_Hand" ItemRate="100000" SetItemRate="0" MoneyDrop="100000" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" />
+	<AddCoin Enable="1" CoinType="2" CoinValue="50" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropAllow Wizard="1" DW="1" Knight="1" DK="1" FairyElf="1" ELF="1" MagicGladiator="1" MG="1" DarkLord="1" DL="1" Summoner="1" SU="1" RageFighter="1" RF="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+		<Drop Rate="10000" Count="1">
+			<!--Sword of Destruction-->
+			<Item Cat="0" Index="16" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Staff of Destruction-->
+			<Item Cat="5" Index="8" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Celestial Bow-->
+			<Item Cat="4" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Book of Neil-->
+			<Item Cat="5" Index="22" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Book of Shamut-->
+			<Item Cat="5" Index="21" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Rune Blade-->
+			<Item Cat="0" Index="31" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Thunder Blade-->
+			<Item Cat="0" Index="18" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Great Scepter-->
+			<Item Cat="2" Index="10" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Lord Scepter-->
+			<Item Cat="2" Index="11" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Lighting Sword-->
+			<Item Cat="0" Index="14" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Saint Crossbow-->
+			<Item Cat="4" Index="16" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Mace-->
+			<Item Cat="2" Index="0" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Ancient Stick-->
+			<Item Cat="5" Index="17" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Red Wing Stick-->
+			<Item Cat="5" Index="16" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Sacred Glove-->
+			<Item Cat="0" Index="32" ItemMinLevel="0" ItemMaxLevel="3" Skill="1" Luck="-1" Option="-1" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+	</DropAllow>
+</ItemBag>

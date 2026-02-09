@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="Event_LastManStanding_Reward" ItemRate="10000" SetItemRate="0" MoneyDrop="1400" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" />
+	<AddCoin Enable="1" CoinType="2" CoinValue="100" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropAllow Wizard="1" DW="1" Knight="1" DK="1" FairyElf="1" ELF="1" MagicGladiator="1" MG="1" DarkLord="1" DL="1" Summoner="1" SU="1" RageFighter="1" RF="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+		<Drop Rate="10000" Count="1" />
+			<!--Kris-->
+			<Item Cat="12" Index="30" ItemMinLevel="0" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Kris-->
+			<Item Cat="12" Index="31" ItemMinLevel="0" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Kris-->
+			<Item Cat="12" Index="136" ItemMinLevel="0" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Kris-->
+			<Item Cat="12" Index="137" ItemMinLevel="0" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Kris-->
+			<Item Cat="12" Index="141" ItemMinLevel="0" ItemMaxLevel="2" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+	</DropAllow>
+</ItemBag>

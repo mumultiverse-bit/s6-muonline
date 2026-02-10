@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == INTERNATIONAL GAMING CENTER NETWORK
+// == www.igcn.mu
+// == (C) IGC-Network (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == File is a part of IGCN Group MuOnline Server files.
+// ============================================================
+//
+// STRICTLY NO COMMENTS INSIDE TAGS 
+-->
+<ItemBag>
+	<BagConfig Name="GM_BOX_DK" ItemRate="10000" SetItemRate="0" MoneyDrop="0" BagUseRate="10000" BagUseEffect="-1" IsPentagramForBeginnersDrop="0" MasterySetItemInclude="0" />
+	<AddCoin Enable="0" CoinType="2" CoinValue="0" />
+	<SummonBook Enable="0" DropRate="0" ItemCat="14" ItemIndex="217" />
+	<DropAllow Wizard="0" DW="0" Knight="1" DK="1" FairyElf="0" ELF="0" MagicGladiator="0" MG="0" DarkLord="0" DL="0" Summoner="0" SU="0" RageFighter="0" RF="0" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
+		<Drop Rate="10000" Count="5">
+			<!--Thunder Blade +13 Excellent-->
+			<Item Cat="0" Index="18" ItemMinLevel="13" ItemMaxLevel="13" Skill="1" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dark Breaker +13 Excellent-->
+			<Item Cat="0" Index="17" ItemMinLevel="13" ItemMaxLevel="13" Skill="1" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Helm +13 Excellent-->
+			<Item Cat="7" Index="21" ItemMinLevel="13" ItemMaxLevel="13" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Armor +13 Excellent-->
+			<Item Cat="8" Index="21" ItemMinLevel="13" ItemMaxLevel="13" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Pants +13 Excellent-->
+			<Item Cat="9" Index="21" ItemMinLevel="13" ItemMaxLevel="13" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Gloves +13 Excellent-->
+			<Item Cat="10" Index="21" ItemMinLevel="13" ItemMaxLevel="13" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Dragon Boots +13 Excellent-->
+			<Item Cat="11" Index="21" ItemMinLevel="13" ItemMaxLevel="13" Skill="0" Luck="1" Option="7" Exc="63" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Jewel of Bless x10-->
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="13" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<!--Jewel of Soul x10-->
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+			<Item Cat="14" Index="14" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" />
+		</Drop>
+	</DropAllow>
+</ItemBag>

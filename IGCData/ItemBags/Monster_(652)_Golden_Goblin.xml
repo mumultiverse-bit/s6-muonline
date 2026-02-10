@@ -88,7 +88,7 @@
 <ItemBag>
 <BagConfig Name="Golden_Goblin" ItemRate="9000" SetItemRate="0"  MoneyDrop="100000" BagUseEffect="-1" BagUseRate="10000" />
 <SummonBook Enable="1" DropRate="600000" ItemCat="14" ItemIndex="217" />
-<AddCoin Enable="1" CoinType="2" CoinValue="10" />
+<AddCoin Enable="0" CoinType="2" CoinValue="10" />
 
 <DropAllow Wizard="1" Knight="1" FairyElf="1" MagicGladiator="1" DarkLord="1" Summoner="1" RageFighter="1" PlayerMinLevel="1" PlayerMaxLevel="MAX" MapNumber="-1">
 	<Drop Rate="500" Count="1">
